@@ -1,0 +1,1 @@
+# Configurando-senha-do-root-MariaDB
